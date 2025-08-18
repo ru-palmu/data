@@ -1,0 +1,50 @@
+{
+  "rank":   [
+    {
+      "rank":       1,
+      "gift":       257115,
+      "name":       "RUI 参"
+    },
+    {
+      "rank":       2,
+      "gift":       135822,
+      "name":       "ようchannel 人 伴"
+    },
+    {
+      "rank":       3,
+      "gift":       122352,
+      "name":       "》ど月城葵"
+    },
+    {
+      "rank":       4,
+      "gift":       117590,
+      "name":       "当 鋭りきまる"
+    },
+    {
+      "rank":       5,
+      "gift":       88178,
+      "name":       "みあe2 代 NoMark"
+    },
+    {
+      "rank":       6,
+      "gift":       62943,
+      "name":       "Hironao介"
+    },
+    {
+      "rank":       7,
+      "gift":       60001,
+      "name":       "同"
+    }
+  ],
+  "dates":   [
+    "2025年7月15日 19:00",
+    "2025年7月21日 23:59"
+  ],
+  "num":   262,
+  "group":   "GR1",
+  "gnum":   182,
+  "img":   "20250715-ETC3-B1_B3-GR1.png",
+  "event":   "ETC3",
+  "min":   "B1",
+  "max":   "B3"
+}
