@@ -1,11 +1,18 @@
-
 // eslint.config.mjs
+
+import globals from "globals";
+
 export default [
   {
     files: ["**/*.js"], // 全ての JS を対象
     languageOptions: {
       ecmaVersion: "latest",
       sourceType: "module",
+	  globals: {
+		...globals.browser,
+		...globals.node,
+		...globals.es2021,
+	  },
     },
     rules: {
       // 文法・バグ検出中心のルール
