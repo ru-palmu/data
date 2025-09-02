@@ -1,0 +1,50 @@
+{
+  "rank":   [
+    {
+      "rank":       1,
+      "gift":       204360,
+      "name":       "PenBroA き"
+    },
+    {
+      "rank":       2,
+      "gift":       147313,
+      "name":       ""
+    },
+    {
+      "rank":       3,
+      "gift":       137124,
+      "name":       "あんこきで*・0。@近江牛イベ"
+    },
+    {
+      "rank":       4,
+      "gift":       122597,
+      "name":       "srずせんり"
+    },
+    {
+      "rank":       5,
+      "gift":       96360,
+      "name":       "第AYACO*"
+    },
+    {
+      "rank":       6,
+      "gift":       78744,
+      "name":       "黒柱MAAs"
+    },
+    {
+      "rank":       7,
+      "gift":       78645,
+      "name":       "つん昌素"
+    }
+  ],
+  "dates":   [
+    "2025年8月26日 19:00",
+    "2025年9月1日 23:59"
+  ],
+  "num":   47,
+  "group":   "GR1",
+  "gnum":   25,
+  "img":   "20250826-ETC1-B3_A1-GR1.png",
+  "event":   "ETC1",
+  "min":   "B3",
+  "max":   "A1"
+}

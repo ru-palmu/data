@@ -1,0 +1,50 @@
+{
+  "rank":   [
+    {
+      "rank":       1,
+      "gift":       165680,
+      "name":       "双谷 司@焼肉奉行極1位thx"
+    },
+    {
+      "rank":       2,
+      "gift":       135197,
+      "name":       "KURAN"
+    },
+    {
+      "rank":       3,
+      "gift":       84369,
+      "name":       "Hironao介"
+    },
+    {
+      "rank":       4,
+      "gift":       68682,
+      "name":       "きょん"
+    },
+    {
+      "rank":       5,
+      "gift":       65829,
+      "name":       "ダづ“そら豆ゃmn党"
+    },
+    {
+      "rank":       6,
+      "gift":       56454,
+      "name":       "九月二日(火)"
+    },
+    {
+      "rank":       7,
+      "gift":       43755,
+      "name":       "mimi"
+    }
+  ],
+  "dates":   [
+    "2025年8月26日 19:00",
+    "2025年9月1日 23:59"
+  ],
+  "num":   96,
+  "group":   "GR1",
+  "gnum":   49,
+  "img":   "20250826-ETC1-B1_B2-GR1.png",
+  "event":   "ETC1",
+  "min":   "B1",
+  "max":   "B2"
+}
