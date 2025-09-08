@@ -25,7 +25,7 @@ window.PALMU_NOTICES = [
 	 kind: NOTICE_CATEGORIES.SALE.code,
 	 start: '2025-08-27',
 	 url: 'https://x.com/palmu_jp/status/1960583057443852404'},
-	{date: '2025-09-10', text: 'シャンパンタイム 9/10 18:00-24:00 [達成型/申込不要]',
+	{date: '2025-09-10', text: 'シャンパンタイム 9/10 18:00-24:00 のうち120分[達成型/申込不要]',
 	 kind: NOTICE_CATEGORIES.SALE.SPECIAL,
 	 url: 'https://x.com/palmu_jp/status/1962840429537407343'},
 	{date: '2025-09-14', text: 'セール 9/9 12:00-9/14 [3周年]',
