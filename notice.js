@@ -31,7 +31,7 @@ window.PALMU_NOTICES = [
 	{date: '2025-09-14', text: 'セール 9/9 12:00-9/14 [3周年, 1.25]',
 	 kind: NOTICE_CATEGORIES.SALE.code,
 	 start: '2025-09-09',
-	 link: ["SS", "sales/sale20250909.png"],
+	 links: [{kind: "SS", file: "sales/sale20250909.png"}],
 	 url: 'https://x.com/palmu_jp/status/1965007210490273966'},
 	{date: '2025-09-14', text: '3周年記念YouTubeライブ 14:00-',
 	 kind: NOTICE_CATEGORIES.SPECIAL.code,
