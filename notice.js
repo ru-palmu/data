@@ -39,9 +39,13 @@ window.PALMU_NOTICES = [
 	{date: '2025-09-14', text: '3周年記念YouTubeライブ 14:00-16:00',
 	 kind: NOTICE_CATEGORIES.SPECIAL.code,
 	 url: 'https://x.com/palmu_jp/status/1965701789589602491'},
-	{date: '2025-09-16', text: 'メンテ 14:00-15:30 [月次累計FB表記]',
+	{date: '2025-09-16', text: 'メンテ 14:00-15:30 [月次累計FB表記,生年月日登録,購入エラー]',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE.code,
 	 url: 'https://x.com/palmu_jp/status/1963920046993883455'},
+	{date: '2025-09-28', text: 'たいむギフト復刻コレクション 9/20-9/28',
+	 kind: NOTICE_CATEGORIES.SPECIAL.code,
+	 start: '2025-09-18',
+	 url: 'https://x.com/palmu_jp/status/1966426573189325084'},
 ];
 
 
