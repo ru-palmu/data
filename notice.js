@@ -9,6 +9,10 @@ const NOTICE_CATEGORIES = Object.freeze({
 
 
 window.PALMU_NOTICES = [
+	{date: '2025-12-31', text: 'ライバーの皆様に(る)からのお願い',
+	 kind: NOTICE_CATEGORIES.SPECIAL.code,
+	 start: '2025-09-14',
+	 url: '../meter/livescore.html'},
 	{date: '2025-08-24T14:30', text: 'PalHub 14:00-14:30',
 	 kind: NOTICE_CATEGORIES.PALHUB.code,
 	 url: 'https://x.com/palmu_jp/status/1957763773932130628'},
