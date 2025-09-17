@@ -1,0 +1,50 @@
+{
+  "rank":   [
+    {
+      "rank":       1,
+      "gift":       391244,
+      "name":       "もちまる 開"
+    },
+    {
+      "rank":       2,
+      "gift":       268857,
+      "name":       "連中を"
+    },
+    {
+      "rank":       3,
+      "gift":       194742,
+      "name":       "人⑮megu"
+    },
+    {
+      "rank":       4,
+      "gift":       175868,
+      "name":       "MMMMMDaD"
+    },
+    {
+      "rank":       5,
+      "gift":       131652,
+      "name":       "snsAna ⑳⑩9/15HBD俺が主役や"
+    },
+    {
+      "rank":       6,
+      "gift":       127802,
+      "name":       "inemuri_ | ZZ"
+    },
+    {
+      "rank":       7,
+      "gift":       127231,
+      "name":       "桜月交羽彩 9 そ@初心に帰る"
+    }
+  ],
+  "dates":   [
+    "2025年9月9日 19:00",
+    "2025年9月15日 23:59"
+  ],
+  "num":   51,
+  "group":   "GR1",
+  "gnum":   26,
+  "img":   "20250909-ETC4-A1_A5-GR1.png",
+  "event":   "ETC4",
+  "min":   "A1",
+  "max":   "A5"
+}
