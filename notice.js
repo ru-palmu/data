@@ -57,7 +57,7 @@ window.PALMU_NOTICES = [
 	 links: [{label: "SS", file: "sales/sale20250915.png"}],
 	 start: '2025-09-14',
 	 url: 'https://x.com/palmu_jp/status/1967241939742552529'},
-	{date: '2025-09-28', text: 'たいむギフト復刻コレクション 9/20-9/28',
+	{date: '2025-09-28', text: 'たいむギフト復刻コレクション 9/20-9/28 [達成型/申込不要/B1↑]',
 	 kind: NOTICE_CATEGORIES.SPECIAL.code,
 	 start: '2025-09-18',
 	 url: 'https://x.com/palmu_jp/status/1966426573189325084'},
