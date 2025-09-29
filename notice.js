@@ -65,6 +65,9 @@ window.PALMU_NOTICES = [
 	 kind: NOTICE_CATEGORIES.SPECIAL.code,
 	 start: '2025-09-18',
 	 url: 'https://x.com/palmu_jp/status/1966426573189325084'},
+	{date: '2025-10-08', text: '17:00-24:00 うさぎたいむとお月見会 [ランキング型/申込不要/B1↑]',
+	 kind: NOTICE_CATEGORIES.SPECIAL.code,
+	 url: 'https://x.com/palmu_jp/status/1972602252939698199'},
 ];
 
 
