@@ -76,6 +76,9 @@ window.PALMU_NOTICES = [
 	{date: '2025-10-08', text: '17:00-24:00 うさぎたいむとお月見会 [ランキング型/申込不要/B1↑]',
 	 kind: NOTICE_CATEGORIES.SPECIAL,
 	 url: 'https://x.com/palmu_jp/status/1972602252939698199'},
+	{date: '2025-10-19T22:00', text: '19:30-22:00 「Palmu3周年記念YouTubeライブ」再実施',
+	 kind: NOTICE_CATEGORIES.SPECIAL,
+	 url: 'https://x.com/palmu_jp/status/1974082009694941425'},
 ];
 
 
