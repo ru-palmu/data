@@ -20,8 +20,11 @@ window.PALMU_NOTICES = [
 	 kind: NOTICE_CATEGORIES.SPECIAL,
 	 start: '2025-09-18',
 	 url: '../meter/livescore.html'},
-	{date: '2025-10-28T15:30', text: 'メンテ 14:00-15:30 配信フィルター',
+	{date: '2025-10-28T15:30', text: 'メンテ 14:00-15:30',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 links: [
+		 {label: "配信フィルター", url: "https://x.com/palmu_jp/status/1981654397559161214"},
+	 ],
 	 url: 'https://x.com/palmu_jp/status/1981556258663432285'},
 	{date: '2025-10-28T00:00', text: '内部システムのアップデートおよび内部ツールの切り替え',
 	 kind: NOTICE_CATEGORIES.UPDATE,
