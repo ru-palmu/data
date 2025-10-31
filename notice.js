@@ -13,13 +13,17 @@ window.PALMU_NOTICES_bak = [
 	 kind: NOTICE_CATEGORIES.SPECIAL,
 	 start: '2025-09-14',
 	 url: '../meter/livescore.html'},
-];
-
-window.PALMU_NOTICES = [
 	{date: '2025-12-31', text: 'コイン数とライブスコアに関する調査結果のご報告',
 	 kind: NOTICE_CATEGORIES.SPECIAL,
 	 start: '2025-09-18',
 	 url: '../meter/livescore.html'},
+];
+
+window.PALMU_NOTICES = [
+	{date: '2025-11-05', text: 'セール 10/31 18:00-10/5 [ファンバッジ, 1.23]',
+	 kind: NOTICE_CATEGORIES.SALE,
+	 start: '2025-10-31',
+	 url: 'https://x.com/palmu_jp/status/1984100516402774476'},
 	{date: '2025-10-28T15:30', text: 'メンテ 14:00-15:30',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
 	 links: [
