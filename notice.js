@@ -20,6 +20,10 @@ window.PALMU_NOTICES_bak = [
 ];
 
 window.PALMU_NOTICES = [
+	{date: '2035-12-31', text: 'お願い：使用される方は固定ポストのリポストにご協力ください．',
+	 kind: NOTICE_CATEGORIES.SPECIAL,
+	 start: '2025-11-01',
+	 url: 'https://x.com/ru_palmu/status/1979435586030329963'},
 	{date: '2025-11-05', text: 'セール 10/31 18:00-10/5 [ファンバッジ, 1.23]',
 	 kind: NOTICE_CATEGORIES.SALE,
 	 start: '2025-10-31',
