@@ -24,7 +24,7 @@ window.PALMU_NOTICES = [
 	 kind: NOTICE_CATEGORIES.SPECIAL,
 	 start: '2025-11-01',
 	 url: 'https://x.com/ru_palmu/status/1979435586030329963'},
-	{date: '2025-11-05', text: 'セール 10/31 18:00-10/5 [ファンバッジ, 1.23]',
+	{date: '2025-11-05', text: 'セール 10/31 18:00-11/5 [ファンバッジ, 1.23]',
 	 kind: NOTICE_CATEGORIES.SALE,
 	 start: '2025-10-31',
 	 links: [{label: "SS", file: "sales/sale20251031.png"}],
