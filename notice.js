@@ -20,13 +20,15 @@ window.PALMU_NOTICES_bak = [
 ];
 
 window.PALMU_NOTICES = [
-	{date: '2035-12-31', text: 'お願い：使用される方は固定ポストのリポストにご協力ください．',
+	{date: '2025-11-01', text: 'お願い：使用される方は固定ポストのリポストにご協力ください．',
 	 kind: NOTICE_CATEGORIES.SPECIAL,
 	 start: '2025-11-01',
+	 end: '2035-12-31',
 	 url: 'https://x.com/ru_palmu/status/1979435586030329963'},
-	{date: '2025-12-31', text: 'ライブスコアからコイン数を算出するモデルを変更しました',
+	{date: '2025-11-07', text: 'ライブスコアからコイン数を算出するモデルを変更しました',
 	 kind: NOTICE_CATEGORIES.SPECIAL,
 	 start: '2025-11-07',
+	 end: '2025-12-31',
 	 url: 'https://x.com/ru_palmu/status/1986447228395790655'},
 	{date: '2025-11-11T06:00', text: 'メンテ 05:00-06:00',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
