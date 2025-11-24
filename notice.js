@@ -33,6 +33,9 @@ window.PALMU_NOTICES = [
 	 url: 'https://x.com/ru_palmu/status/1986447228395790655'},
 	{date: '2025-11-25T15:30', text: 'メンテ 14:00-15:00',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 links: [
+		 {label: "画質微修正", url: "https://x.com/palmu_jp/status/1991763509307232362"},
+	 ],
 	 url: 'https://x.com/palmu_jp/status/1991755959950274692'},
 	{date: '2025-11-11T06:00', text: 'メンテ 05:00-06:00',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
