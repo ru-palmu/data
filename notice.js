@@ -31,6 +31,9 @@ window.PALMU_NOTICES = [
 	 start: '2025-11-07',
 	 end: '2025-12-31',
 	 url: 'https://x.com/ru_palmu/status/1986447228395790655'},
+	{date: '2025-12-03', text: 'セール 11/28 12:00-12/3 [ファンバッジ]',
+	 kind: NOTICE_CATEGORIES.SALE,
+	 url: 'https://x.com/palmu_jp/status/1993877448505585756'},
 	{date: '2025-11-25T15:30', text: 'メンテ 14:00-15:00',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
 	 links: [
