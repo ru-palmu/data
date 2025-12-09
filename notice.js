@@ -37,7 +37,7 @@ window.PALMU_NOTICES = [
 	{date: '2025-12-15', text: 'セール 12/09 12:00-12/15 [CHAMP. 2025]',
 	 kind: NOTICE_CATEGORIES.SALE,
 	 url: 'https://x.com/palmu_jp/status/1997138933604557060'},
-	{date: '2025-12-09T14:30', text: 'メンテ 14:00-14:30 (仮)',
+	{date: '2025-12-09T14:30', text: 'メンテ 14:00-14:30',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
 	 url: 'https://x.com/palmu_jp/status/1997984514279133356'},
 	{date: '2025-11-07', text: 'ライブスコアからコイン数を算出するモデルを変更しました',
