@@ -26,7 +26,7 @@ window.PALMU_NOTICES = [
 	 start: '2025-11-01',
 	 end: '2035-12-31',
 	 url: 'https://x.com/ru_palmu/status/1979435586030329963'},
-	{date: '2025-12-02', text: 'ギフト数算出時の前提知識を記載しました．一度はお読みください．',
+	{date: '2025-12-02', text: 'コイン数（ギフト数）算出時の前提知識を記載しました．一度はお読みください．',
 	 kind: NOTICE_CATEGORIES.TOOL,
 	 start: '2025-12-01',
 	 end: '2035-12-31',
