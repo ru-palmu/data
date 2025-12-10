@@ -34,7 +34,7 @@ window.PALMU_NOTICES = [
 	{date: '2025-12-22', text: 'セール 12/16 12:00-12/22 [CHAMP. 2025]',
 	 kind: NOTICE_CATEGORIES.SALE,
 	 url: 'https://x.com/palmu_jp/status/1997138933604557060'},
-	{date: '2025-12-15', text: 'セール 12/09 12:00-12/15 [CHAMP. 2025]',
+	{date: '2025-12-15', text: 'セール 12/09 12:00-12/15 [CHAMP. 2025, 23%〜25%]',
 	 kind: NOTICE_CATEGORIES.SALE,
 	 links: [{label: "SS", file: "sales/sale20251209.png"}],
 	 url: 'https://x.com/palmu_jp/status/1997138933604557060'},
