@@ -21,9 +21,6 @@ window.PALMU_NOTICES_bak = [
 ];
 
 window.PALMU_NOTICES = [
-	{date: '2025-12-23T16:30', text: 'メンテ 14:00-16:30',
-	 kind: NOTICE_CATEGORIES.MAINTENANCE,
-	 url: 'https://x.com/palmu_jp/status/2001849972321587494'},
 	{date: '2025-11-01', text: 'お願い：使用される方は固定ポストのリポストにご協力ください．',
 	 kind: NOTICE_CATEGORIES.TOOL,
 	 start: '2025-11-01',
@@ -34,6 +31,9 @@ window.PALMU_NOTICES = [
 	 start: '2025-12-01',
 	 end: '2035-12-31',
 	 url: 'bys.html'},
+	{date: '2025-12-23T16:30', text: 'メンテ 14:00-16:30',
+	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 url: 'https://x.com/palmu_jp/status/2001849972321587494'},
 	{date: '2025-12-22', text: 'セール 12/16 12:00-12/22 [CHAMP. 2025, 24.5〜25%]',
 	 kind: NOTICE_CATEGORIES.SALE,
 	 links: [{label: "SS", file: "sales/sale20251216.png"}],
