@@ -33,6 +33,9 @@ window.PALMU_NOTICES = [
 	 url: 'bys.html'},
 	{date: '2025-12-23T16:30', text: 'メンテ 14:00-16:30',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 links: [
+		 {label: "検索強化，リスナー称号，ダイヤ上限", url: "https://x.com/palmu_jp/status/2001955677833675105"},
+	 ],
 	 url: 'https://x.com/palmu_jp/status/2001849972321587494'},
 	{date: '2025-12-22', text: 'セール 12/16 12:00-12/22 [CHAMP. 2025, 24.5〜25%]',
 	 kind: NOTICE_CATEGORIES.SALE,
