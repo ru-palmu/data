@@ -33,6 +33,9 @@ window.PALMU_NOTICES = [
 	 url: 'bys.html'},
 	{date: '2026-01-27T16:00', text: 'メンテ 14:00-16:00',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 links: [
+		 {label: "未成年", url: "https://x.com/palmu_jp/status/2014616593813090759"},
+	 ],
 	 url: 'https://x.com/palmu_jp/status/2014545851507712476'},
 	{date: '2026-01-19', text: 'セール 01/13 12:00-01/19 [雪まつり, 24.5〜25%]',
 	 kind: NOTICE_CATEGORIES.SALE,
@@ -69,7 +72,7 @@ window.PALMU_NOTICES = [
 	 kind: NOTICE_CATEGORIES.SALE,
 	 links: [{label: "SS", file: "sales/sale20251128.png"}],
 	 url: 'https://x.com/palmu_jp/status/1993877448505585756'},
-	{date: '2025-11-25T15:30', text: 'メンテ 14:00-15:00',
+	{date: '2025-11-25T15:30', text: 'メンテ 14:00-15:00 [ウェルカムタブ]',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
 	 links: [
 		 {label: "画質微修正", url: "https://x.com/palmu_jp/status/1991763509307232362"},
