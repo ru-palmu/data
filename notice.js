@@ -7,6 +7,7 @@ const NOTICE_CATEGORIES = Object.freeze({
 	SPECIAL: { code: 'special', name: '特別企画', description: 'イベントやキャンペーンなどのその他情報' },
 	PALHUB: { code: 'PalHub', name: 'PalHub', description: 'PalHubに関するお知らせ' },
 	TOOL: { code: 'tool', name: '本ツール', description: '本ツールに関するお知らせ' },
+	ELECTION: { code: 'election', name: '選挙', description: '選挙情報' },
 });
 
 window.PALMU_NOTICES_bak = [
@@ -31,6 +32,10 @@ window.PALMU_NOTICES = [
 	 start: '2025-12-01',
 	 end: '2035-12-31',
 	 url: 'bys.html'},
+	{date: '2026-02-08', text: '第51回衆議院議員総選挙',
+	 kind: NOTICE_CATEGORIES.ELECTION,
+	 start: '2026-01-28',
+	 url: 'https://www.soumu.go.jp/2026senkyo/'},
 	{date: '2026-02-04', text: 'セール 01/30 12:00-02/4 [ファンバッジ, 20.4〜24%]',
 	 kind: NOTICE_CATEGORIES.SALE,
 	 start: '2026-01-30',
