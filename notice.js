@@ -32,7 +32,7 @@ window.PALMU_NOTICES = [
 	 start: '2025-12-01',
 	 end: '2035-12-31',
 	 url: 'bys.html'},
-	{date: '2026-02-08', text: '第51回衆議院議員総選挙',
+	{date: '2026-02-08T20:00', text: '第51回衆議院議員総選挙',
 	 kind: NOTICE_CATEGORIES.ELECTION,
 	 start: '2026-01-28',
 	 url: 'https://www.soumu.go.jp/2026senkyo/'},
