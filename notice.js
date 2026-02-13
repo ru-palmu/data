@@ -19,6 +19,9 @@ window.PALMU_NOTICES_bak = [
 	 kind: NOTICE_CATEGORIES.TOOL,
 	 start: '2025-09-18',
 	 url: '../meter/livescore.html'},
+	{date: '2026-02-09T18:00', text: '（変動）ボーダーに対するコイン数算出機能についてアンケートにご協力ください．',
+	 kind: NOTICE_CATEGORIES.TOOL,
+	 url: 'https://x.com/ru_palmu/status/2020422544378224962'},
 ];
 
 window.PALMU_NOTICES = [
@@ -32,9 +35,9 @@ window.PALMU_NOTICES = [
 	 start: '2025-12-01',
 	 end: '2035-12-31',
 	 url: 'bys.html'},
-	{date: '2026-02-09T18:00', text: '（変動）ボーダーに対するコイン数算出機能についてアンケートにご協力ください．',
-	 kind: NOTICE_CATEGORIES.TOOL,
-	 url: 'https://x.com/ru_palmu/status/2020422544378224962'},
+	{date: '2026-02-17T15:30', text: 'メンテ 14:00-15:30',
+	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 url: 'https://x.com/palmu_jp/status/2022226740374904856'},
 	{date: '2026-02-08T20:00', text: '第51回衆議院議員総選挙',
 	 kind: NOTICE_CATEGORIES.ELECTION,
 	 start: '2026-01-28',
