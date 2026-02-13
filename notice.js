@@ -37,6 +37,9 @@ window.PALMU_NOTICES = [
 	 url: 'bys.html'},
 	{date: '2026-02-17T15:30', text: 'メンテ 14:00-15:30',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 links: [
+		 {label: "イベント表示,ボーダー表示", url: "https://x.com/palmu_jp/status/2022264844041216345"},
+	 ],
 	 url: 'https://x.com/palmu_jp/status/2022226740374904856'},
 	{date: '2026-02-08T20:00', text: '第51回衆議院議員総選挙',
 	 kind: NOTICE_CATEGORIES.ELECTION,
