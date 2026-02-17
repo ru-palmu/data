@@ -35,7 +35,7 @@ window.PALMU_NOTICES = [
 	 start: '2025-12-01',
 	 end: '2035-12-31',
 	 url: 'bys.html'},
-	{date: '2026-02-17T15:30', text: 'メンテ 14:00-15:30',
+	{date: '2026-02-17T16:00', text: 'メンテ 14:00-15:30 -> 16:00',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
 	 links: [
 		 {label: "イベント表示,ボーダー表示", url: "https://x.com/palmu_jp/status/2022264844041216345"},
