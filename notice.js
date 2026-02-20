@@ -22,6 +22,10 @@ window.PALMU_NOTICES_bak = [
 	{date: '2026-02-09T18:00', text: '（変動）ボーダーに対するコイン数算出機能についてアンケートにご協力ください．',
 	 kind: NOTICE_CATEGORIES.TOOL,
 	 url: 'https://x.com/ru_palmu/status/2020422544378224962'},
+	{date: '2026-02-08T20:00', text: '第51回衆議院議員総選挙',
+	 kind: NOTICE_CATEGORIES.ELECTION,
+	 start: '2026-01-28',
+	 url: 'https://www.soumu.go.jp/2026senkyo/'},
 ];
 
 window.PALMU_NOTICES = [
@@ -35,16 +39,15 @@ window.PALMU_NOTICES = [
 	 start: '2025-12-01',
 	 end: '2035-12-31',
 	 url: 'bys.html'},
+	{date: '2026-02-24T06:00', text: 'メンテ 05:00-06:00',
+	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 url: 'https://x.com/palmu_jp/status/2024680423905690035'},
 	{date: '2026-02-17T16:00', text: 'メンテ 14:00-15:30 -> 16:00',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
 	 links: [
 		 {label: "イベント表示,ボーダー表示", url: "https://x.com/palmu_jp/status/2022264844041216345"},
 	 ],
 	 url: 'https://x.com/palmu_jp/status/2022226740374904856'},
-	{date: '2026-02-08T20:00', text: '第51回衆議院議員総選挙',
-	 kind: NOTICE_CATEGORIES.ELECTION,
-	 start: '2026-01-28',
-	 url: 'https://www.soumu.go.jp/2026senkyo/'},
 	{date: '2026-02-04', text: 'セール 01/30 12:00-02/4 [ファンバッジ, 20.4〜24%]',
 	 kind: NOTICE_CATEGORIES.SALE,
 	 start: '2026-01-30',
