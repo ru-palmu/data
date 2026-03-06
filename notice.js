@@ -42,6 +42,9 @@ window.PALMU_NOTICES = [
 
 	{date: '2026-03-10T15:30', text: 'メンテ 14:00-15:30',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 links: [
+		 {label: "チームイベ申請,ギフトサジェスト", url: "https://x.com/palmu_jp/status/2029844441213628821"},
+	 ],
 	 url: 'https://x.com/palmu_jp/status/2029768936955277651'},
 	{date: '2026-03-04', text: 'セール 02/27 12:00-03/04 [ファンバッジ, 20.1〜23.6%]',
 	 kind: NOTICE_CATEGORIES.SALE,
