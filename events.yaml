@@ -15,6 +15,13 @@ events:
   - start_date: 2025-11-04
     end_date: 2025-11-10
     short: "オリジナル配信BGM"
+    detail:
+      - 描き下ろしイラストで駅広告に載ろう -着物編-
+      - サウンド開発室 -オリジナル配信BGMを作ろう
+      - たいむのボアコレ Vol.1 -ぬくもりトート-
+      - もうすぐ11月11日 スティックお菓子セット
+      - Palmu Fan Badge Memorial -October-
+      - Palmu 連続配信チャレンジ
   - start_date: 2025-11-11
     end_date: 2025-11-17
     short: "宣材写真，BD"
