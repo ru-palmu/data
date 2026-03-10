@@ -39,6 +39,11 @@ window.PALMU_NOTICES = [
 	 start: '2025-12-01',
 	 end: '2035-12-31',
 	 url: 'bys.html'},
+	{date: '2026-03-10', text: '「予定表」機能に，月間・週間スケジュール画像を作成機能を追加し，仮公開中です．使用していただき，フィードバックをいただけると嬉しいです．',
+	 kind: NOTICE_CATEGORIES.TOOL,
+	 start: '2026-03-10',
+	 end: '2035-12-31',
+	 url: 'schedule.html#exp'},
 
 	{date: '2026-03-10T15:30', text: 'メンテ 14:00-15:30',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
