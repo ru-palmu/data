@@ -33,6 +33,7 @@ window.PALMU_NOTICES = [
 	 kind: NOTICE_CATEGORIES.TOOL,
 	 start: '2025-11-01',
 	 end: '2035-12-31',
+	 track: 'share_x',
 	 url: 'https://x.com/ru_palmu/status/1979435586030329963'},
 	{date: '2025-12-02', text: 'コイン数（ギフト数）算出時の前提知識を記載しました．一度はお読みください．',
 	 kind: NOTICE_CATEGORIES.TOOL,
@@ -43,6 +44,7 @@ window.PALMU_NOTICES = [
 	 kind: NOTICE_CATEGORIES.TOOL,
 	 start: '2026-03-10',
 	 end: '2035-12-31',
+	 track: 'schedule-exp',
 	 url: 'schedule.html#exp'},
 
 	{date: '2026-03-10T15:30', text: 'メンテ 14:00-15:30',
