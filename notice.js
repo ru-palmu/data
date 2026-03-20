@@ -30,7 +30,6 @@ window.PALMU_NOTICES_bak = [
 	 kind: NOTICE_CATEGORIES.TOOL,
 	 start: '2026-03-10',
 	 end: '2035-12-31',
-	 track: 'schedule-exp',
 	 url: 'schedule.html#exp'},
 ];
 
@@ -39,10 +38,11 @@ window.PALMU_NOTICES = [
 	 kind: NOTICE_CATEGORIES.TOOL,
 	 start: '2025-11-01',
 	 end: '2035-12-31',
-	 track: 'share_x',
+	 to: 'share_x',
 	 url: 'https://x.com/ru_palmu/status/1979435586030329963'},
 	{date: '2025-12-02', text: 'コイン数（ギフト数）算出時の前提知識を記載しました．一度はお読みください．',
 	 kind: NOTICE_CATEGORIES.TOOL,
+	 to: 'bys',
 	 start: '2025-12-01',
 	 end: '2035-12-31',
 	 url: 'bys.html'},
