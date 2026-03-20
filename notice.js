@@ -49,6 +49,9 @@ window.PALMU_NOTICES = [
 	{date: '2025-03-29T15:00', text: 'PalHub vol.7 14:00-',
 	 kind: NOTICE_CATEGORIES.PALHUB,
 	 url: 'https://x.com/palmu_jp/status/2034517727994400798'},
+	{date: '2026-03-24T15:30', text: 'メンテ 14:00-15:30',
+	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 url: 'https://x.com/palmu_jp/status/2034827275988775229'},
 	{date: '2026-03-10T15:30', text: 'メンテ 14:00-15:30',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
 	 links: [
