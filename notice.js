@@ -54,7 +54,7 @@ window.PALMU_NOTICES = [
 	{date: '2026-04-01T02:30', text: 'メンテ 00:30-02:30',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
 	 links: [
-		 {label: "ファンバッジ 5.99", url: "https://x.com/palmu_jp/status/2034479978746953805"},
+		 {label: "ファンバッジ 5.99", url: "https://x.com/palmu_jp/status/2038594591897927779"},
 	 ],
 	 url: 'https://x.com/palmu_jp/status/2037379084108390722'},
 	{date: '2026-03-29T15:00', text: 'PalHub vol.7 14:00-',
