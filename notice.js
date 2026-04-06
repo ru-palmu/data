@@ -31,6 +31,11 @@ window.PALMU_NOTICES_bak = [
 	 start: '2026-03-10',
 	 end: '2035-12-31',
 	 url: 'schedule.html#exp'},
+	{date: '2026-04-05', text: 'バッジ進化に必要な視聴時間の情報を提供してください',
+	 kind: NOTICE_CATEGORIES.TOOL,
+	 to: 'badge-watch-time',
+	 end: '2035-12-31',
+	 url: 'https://x.com/Penchan_palmu/status/2040393234397188483'},
 ];
 
 window.PALMU_NOTICES = [
@@ -46,11 +51,6 @@ window.PALMU_NOTICES = [
 	 start: '2025-12-01',
 	 end: '2035-12-31',
 	 url: 'bys.html'},
-	{date: '2026-04-05', text: 'バッジ進化に必要な視聴時間の情報を提供してください',
-	 kind: NOTICE_CATEGORIES.TOOL,
-	 to: 'badge-watch-time',
-	 end: '2035-12-31',
-	 url: 'https://x.com/Penchan_palmu/status/2040393234397188483'},
 	{date: '2026-04-02', text: 'セール 03/27 12:00-04/02 [ファンバッジ, 19.3〜23.4%]',
 	 kind: NOTICE_CATEGORIES.SALE,
 	 links: [{label: "SS", file: "sales/sale20260327.png"}],
