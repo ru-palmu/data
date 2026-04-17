@@ -263,3 +263,44 @@ events:
       - [SENRYU, Palmu 大喜利大会！〜GW編〜, 大喜利大会]
       - [HYA, みんなでお祝い HARF YEAR ANNIVERSARY, ハフアニ]
       - [GoS, Next Level Challenge! トップドライバーへの登竜門, 登竜門]
+  ######################################################
+  # https://x.com/palmu_jp/status/2044724985084994044
+  ######################################################
+  - start_date: 2026-05-05
+    end_date: 2026-05-11
+    short: "FB"
+    detail:
+      - [ETC1, みんなでのろう！Youtube広告, Youtube広告]
+      - [ETC2, 月夜にきらめく 月明かりの蝶プロフィール背景, 蝶プロフ]
+      - [ETC3, こどもの日 ごちそう角煮ちまき, 角煮ちまき]
+      - [GFC, 限定ギフトを手に入れよう！Palmu Gift Collection -厨二病1st-, ギフコレ]
+      - [FB, Palmu Fan Badge Memorial -April-, ファンバッジ]
+  - start_date: 2026-05-12
+    end_date: 2026-05-18
+    short: "BD"
+    detail:
+      - [ETC1, 誰が一番愛してる！？ハートギフト好き決定戦！, ハートギフト]
+      - [ETC2, 気分はまるでアーティスト！？音声入りCDキーホルダー, CDキーホルダー]
+      - [ETC3, ニンニクましまっせ！二郎系ラーメン, 二郎系ラーメン]
+      - [ETC4, Palmu お楽しみBOX ボディメイク編, お楽しみBOX]
+      - [CSC, 連続配信チャレンジ, 連続配信]
+      - [BD, 7月生まれ集合！ Palmu Special Birthday, バースデー]
+  - start_date: 2026-05-19
+    end_date: 2026-05-25
+    short: "チーム戦"
+    detail:
+      - [TEAM, Team Challenge 戦国編, Team戦]
+      - [ETC1, ジューシーフルーツ シトラスプロフィール背景, シトラスプロフ]
+      - [ETC2, 懐かしのおやつ カルピス＆フルーチェ, カルピス＆フルーチェ]
+      - [GFC, 限定ギフトを手に入れよう！Palmu Gift Collection -厨二病2nd-, ギフコレ]
+  - start_date: 2026-05-26
+    end_date: 2026-06-01
+    short: "HYA, GoS"
+    detail:
+      - [ETC1, たいむと診断！なりきり16タイプ診断, なりきり診断]
+      - [ETC2, 推しマライバー集まれ！オリジナルワッペントートバック, ワッペントート]
+      - [ETC3, みんなで無限アレンジ！ぶぶか油そば, 油そば]
+      - [SENRYU, ジメジメ気分を吹き飛ばせ！梅雨の大喜利大会, 大喜利大会]
+      - [1YA, １周年, １周年]
+      - [HYA, ハフアニ, ハフアニ]
+      - [GoS, 登竜門, 登竜門]
