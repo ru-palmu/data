@@ -38,6 +38,7 @@ window.PALMU_NOTICES_bak = [
 	 url: 'https://x.com/Penchan_palmu/status/2040393234397188483'},
 ];
 
+window.PALMU_NOTICES = [];
 window.PALMU_NOTICES = [
 	{date: '2025-11-01', text: 'お願い：使用される方は固定ポストのリポストにご協力ください．',
 	 kind: NOTICE_CATEGORIES.TOOL,
