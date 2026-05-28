@@ -55,6 +55,7 @@ window.PALMU_NOTICES = [
 	{date: '2026-06-03', text: 'セール 5/28 12:00-06/03 [ファンバッジ]',
 	 kind: NOTICE_CATEGORIES.SALE,
 	 start: '2026-05-27',
+	 links: [{label: "SS", file: "sales/sale20260528.png"}],
 	 url: 'https://x.com/palmu_jp/status/2059469655798943795'},
 	{date: '2026-05-19T15:30', text: 'メンテ 14:00-15:30',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
