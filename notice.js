@@ -59,6 +59,9 @@ window.PALMU_NOTICES = [
 	 url: 'https://x.com/ru_palmu/status/2065658772056670263'},
 	{date: '2026-06-30T15:30', text: 'メンテ 14:00-16:00',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 links: [
+		 {label: "ライバーランキング", url: "https://x.com/palmu_jp/status/2070841099560820982"},
+	 ],
 	 url: 'https://x.com/palmu_jp/status/2070340434145251500'},
 	{date: '2026-06-29', text: 'セール 6/23 12:00-06/29 [星杯,17.7〜23.2%]',
 	 kind: NOTICE_CATEGORIES.SALE,
