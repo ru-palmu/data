@@ -57,6 +57,10 @@ window.PALMU_NOTICES = [
 	 to: 'x-milestone-event-num',
 	 end: '2026-07-01',
 	 url: 'https://x.com/ru_palmu/status/2065658772056670263'},
+	{date: '2026-07-06', text: 'セール 6/30 12:00-06/06 [ファンバッジ]',
+	 kind: NOTICE_CATEGORIES.SALE,
+	 start: '2026-06-30',
+	 url: 'https://x.com/palmu_jp/status/2071790847452909974'},
 	{date: '2026-06-30T15:30', text: 'メンテ 14:00-16:00',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
 	 links: [
