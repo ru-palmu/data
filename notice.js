@@ -59,6 +59,9 @@ window.PALMU_NOTICES = [
 	 url: 'bys.html'},
 	{date: '2026-07-21T15:30', text: 'メンテ 14:00-15:30',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 links: [
+		 {label: "ギフト基盤,応援アイテム", url: "https://x.com/palmu_jp/status/2078057121959293288"},
+	 ],
 	 url: 'https://x.com/palmu_jp/status/2077996855976423658'},
 	{date: '2026-07-06', text: 'セール 6/30 12:00-07/06 [ファンバッジ, 17.7〜23.2%]',
 	 kind: NOTICE_CATEGORIES.SALE,
