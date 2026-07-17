@@ -36,6 +36,11 @@ window.PALMU_NOTICES_bak = [
 	 to: 'badge-watch-time',
 	 end: '2035-12-31',
 	 url: 'https://x.com/Penchan_palmu/status/2040393234397188483'},
+	{date: '2026-06-13', text: 'データ補完のため，１年以上前のトプバナ・登竜門・ハフアニの参加人数が確認できるスクショをお持ちの方は，X の DM 等でお送りいただけますと大変たすかります．',
+	 kind: NOTICE_CATEGORIES.TOOL,
+	 to: 'x-milestone-event-num',
+	 end: '2026-07-01',
+	 url: 'https://x.com/ru_palmu/status/2065658772056670263'},
 ];
 
 window.PALMU_NOTICES = [];
@@ -52,11 +57,9 @@ window.PALMU_NOTICES = [
 	 start: '2025-12-01',
 	 end: '2035-12-31',
 	 url: 'bys.html'},
-	{date: '2026-06-13', text: 'データ補完のため，１年以上前のトプバナ・登竜門・ハフアニの参加人数が確認できるスクショをお持ちの方は，X の DM 等でお送りいただけますと大変たすかります．',
-	 kind: NOTICE_CATEGORIES.TOOL,
-	 to: 'x-milestone-event-num',
-	 end: '2026-07-01',
-	 url: 'https://x.com/ru_palmu/status/2065658772056670263'},
+	{date: '2026-07-21T15:30', text: 'メンテ 14:00-15:30',
+	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 url: 'https://x.com/palmu_jp/status/2077996855976423658'},
 	{date: '2026-07-06', text: 'セール 6/30 12:00-07/06 [ファンバッジ, 17.7〜23.2%]',
 	 kind: NOTICE_CATEGORIES.SALE,
 	 start: '2026-06-30',
