@@ -57,7 +57,7 @@ window.PALMU_NOTICES = [
 	 start: '2025-12-01',
 	 end: '2035-12-31',
 	 url: 'bys.html'},
-	{date: '2026-10-21T14:30', text: 'メンテ 14:00-14:30',
+	{date: '2026-10-21T14:30', text: '【延期】メンテ 14:00-14:30 は翌日以降に延期',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
 	 url: 'https://x.com/palmu_jp/status/2112534858342015387'},
 	{date: '2026-10-20T16:00', text: 'メンテ 14:00-16:00',
