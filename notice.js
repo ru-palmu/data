@@ -59,9 +59,16 @@ window.PALMU_NOTICES = [
 	 url: 'bys.html'},
 
 
+	{date: '2026-11-10T16:30', text: 'メンテ 14:00-16:30',
+	 kind: NOTICE_CATEGORIES.MAINTENANCE,
+	 links: [
+		 {label: "クイックリアクション", url: "https://note.com/palmu/n/n72e665004949"},
+	 ],
+	 url: 'https://x.com/palmu_jp/status/2118597878470107397'},
 	{date: '2026-11-04', text: 'セール 10/29 12:00-11/04 [ファンバッジ]',
 	 kind: NOTICE_CATEGORIES.SALE,
 	 start: '2026-10-28',
+	 links: [{label: "SS", file: "sales/sale20261029.png"}],
 	 url: 'https://x.com/palmu_jp/status/2115277373230739837'},
 	{date: '2026-10-24T15:00', text: 'メンテ 14:00-15:00 「iOS で２行表示されない」',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
@@ -72,7 +79,7 @@ window.PALMU_NOTICES = [
 	{date: '2026-10-21T14:30', text: '【延期】メンテ 14:00-14:30 「iOS で２行表示されない」は翌日以降に延期',
 	 kind: NOTICE_CATEGORIES.MAINTENANCE,
 	 links: [
-		 {label: "理由; 審査", url: "https://x.com/palmu_jp/status/2112731171528548518"},
+		 {label: "延期理由: 審査", url: "https://x.com/palmu_jp/status/2112731171528548518"},
 	 ],
 	 url: 'https://x.com/palmu_jp/status/2112534858342015387'},
 	{date: '2026-10-20T16:00', text: 'メンテ 14:00-16:00',
